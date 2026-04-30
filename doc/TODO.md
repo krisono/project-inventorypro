@@ -39,4 +39,7 @@
 - [x] Add low stock alert system
 - [x] Enhance transaction history with filtering and sorting
 - [x] Write `doc/sprint4.md` 
-- [x] Generate test cases
+- [x] Add price field to inventory items with total inventory value displayed on the dashboard
+- [x] Add expiration date tracking with visual alerts for items expiring within 7 days
+- [x] Add Supplier tracking field to all inventory items
+- [x] Update seed data with real-world supplier names (Prairie Farms, Kroger, Great Value, Kirkland, Tech, Target Essentials)
